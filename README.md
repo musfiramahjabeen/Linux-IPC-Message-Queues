@@ -21,7 +21,7 @@ Execute the C Program for the desired output.
 # PROGRAM:
 
 ## C program that receives a message from message queue and display them
-```
+```c
 // C Program for Message Queue (writer Process) 
 #include <stdio.h> 
 #include <sys/ipc.h> 
